@@ -1,5 +1,5 @@
  /* --------------------------------------------------
-  * © Copyright 2024 - Justice by Venulaw
+  * © Copyright 2024 - Justis by Venulaw
   * --------------------------------------------------*/
 (function($) {
     'use strict';
